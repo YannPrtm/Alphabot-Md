@@ -722,7 +722,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Bot :*
+*📚 List-Menu YannBot:*
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
@@ -1050,7 +1050,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !twitter link
 
 ╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 82252285143
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
@@ -1772,7 +1772,6 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 `
 }
 exports.tos = (ownernomer) => {
@@ -2453,7 +2452,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 82252285143
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
