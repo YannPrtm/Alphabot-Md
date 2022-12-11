@@ -26,13 +26,13 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Ryan-Bot" //namabot kalian
-global.ownername= "Ryan DCoder ID" //nama kalian
+global.botname = "ᴅᴄᴏᴅᴇʀ-ʙᴏᴛᴢ" //namabot kalian
+global.ownername= "ʀʏᴀɴꜱᴏꜰᴛʙᴏʏ" //nama kalian
 global.myweb ="https://github.com/YannPrtm" //bebas asal jan hapus
 global.youtube = "https://youtu.be/BHaXm9DXv0w" //bebas asal jan hapus
 global.myweb2 = "https://youtu.be/BHaXm9DXv0w" //bebas
 global.email = "ryandeveloper@xyz.com" //bebas
-global.region = "Indonesia" //bebas
+global.region = "Amerika" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6282252285143'] //premium user
 global.owner = ["6282252285143","6282252285143"] //ganti agar fitur owner bisa di gunakan
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Ryan-BOTZོ' //sticker wm ubah
-global.author = 'Di Buat Oleh RyanDCoder\nWA : 082252285143' //sticker wm ganti nama kalian
+global.packname = '© ᴅᴄᴏᴅᴇʀ-ʙᴏᴛᴢ' //sticker wm ubah
+global.author = 'Di Buat Oleh ʀʏᴀɴꜱᴏꜰᴛʙᴏʏ\nWA : 082252285143' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
